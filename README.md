@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RwixCoder
 - 👀 I’m interested in programming , gaming , developing
-- 🌱 I’m currently learning java , pyhton
+- 🌱 I’m currently learning java , pyhton ,c/c++
 - 📫 How to reach me DISCORD - Rwix#6917
 
 <!---
